@@ -1,1 +1,1 @@
-# Proiecte
+Project 1 is a python project made in the fist year of the faculty and is a simple exemple of oop. The second project is a C++ project and is a more complex oop example that is using the MVP (Model View Presenter) architecture.
