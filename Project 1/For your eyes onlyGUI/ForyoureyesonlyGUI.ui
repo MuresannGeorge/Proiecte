@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>ForyoureyesonlyGUIClass</class>
+ <widget class="QMainWindow" name="ForyoureyesonlyGUIClass" >
+  <property name="objectName" >
+   <string notr="true">ForyoureyesonlyGUIClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>ForyoureyesonlyGUI</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="ForyoureyesonlyGUI.qrc"/>
+ </resources>
+ <connections/>
+</UI>
