@@ -1,1 +1,1 @@
-Project 1 is a C++ project, it is a more complex example of OOP that is using the MVP (Model View Presenter) architecture. The second project uses python and is a simple exemple of OOP done in the fist year of the faculty.
+For your eyes only is a C++ project, it is a more complex example of OOP that is using the MVP (Model View Presenter) architecture. Order Chaos is an game made in python that replicate the original order and chaos game. Scramble is a game made in python that replicate the original game scramble.
